@@ -1,0 +1,110 @@
+*{
+    margin: 0px;
+    padding:0;
+    
+    
+    
+}
+.header{
+    background-color:black;
+    color: white;
+    margin-bottom: 15px;
+    
+}
+
+
+
+.one{
+    margin-left: 300px;
+    padding-bottom: 5px;
+}
+.aboutp{
+    margin-top:20px;
+    margin-bottom: 10px;
+    text-align: justify;
+    padding-bottom: 3px;
+    
+}
+.attb{
+    margin-bottom: 30px;
+}
+
+
+ul{
+    line-height: 30px;
+}
+.education{
+    margin-bottom: 25px;
+    padding: 5px;
+    padding-left: 65px;
+    
+
+    
+    
+}
+.personal{
+    margin-bottom: 15px;
+    padding: 5px;
+    padding-left: 35px;
+   
+}
+.skills{
+    margin-bottom: 15px;
+    
+    padding-left: 35px;
+    
+}
+.Footer{
+    background-color: black;
+}
+.ht{
+    color: white;
+    
+}
+.edf{
+    padding-left: 17px;
+    
+}
+h3{
+    color: white;
+    padding-top:8px;
+
+}
+.w{
+    margin-bottom: 20px;
+}
+.hbk{
+    
+    text-align: left;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+.yes{
+    background-color:gray;
+    padding: 5px;
+    color: white;
+    border: 2;
+    border-color: black;
+    border-style: solid;
+
+    
+}
+.ty{
+    color: red;
+}
+.l{
+    color: red;
+}
+.m{
+    color: red;
+}
+
+
+
+
+
+
+
+
